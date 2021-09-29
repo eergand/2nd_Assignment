@@ -1,0 +1,11 @@
+Companies:
+name: string
+logoUrl: string
+
+Menus:
+title: string
+
+Locations:
+name: string
+capacity: integer
+manager: string
